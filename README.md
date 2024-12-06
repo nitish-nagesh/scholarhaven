@@ -1,5 +1,5 @@
 # uci-ics-phd-positions
-Repository for info about hiring prospecive undergraduate students/graduate students/postdocs in the Donald Bren School of Information and Computer Sciences at UC Irvine (for Fall 2025)
+Repository for info about hiring prospecive stuents in the Donald Bren School of Information and Computer Sciences at UC Irvine (for Fall 2025)
 
 
 <!-- # Ph.D. positions - sample
