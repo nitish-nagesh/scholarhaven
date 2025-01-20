@@ -227,6 +227,13 @@ Large Language Models, Vision-Language Models, and Computer Vision: Candidates s
 
 # External resources
 - https://www.project-short.com
+- https://github.com/chinasatokolo/csGraduateApps
+- https://www.thegradcafe.com/
+- https://github.com/pliang279/awesome-phd-advice
+- https://github.com/helenahartmann/awesome-PhD
+- https://github.com/macoj/phd
+- https://github.com/shaily99/advice?tab=readme-ov-file
+- 
 
 # Contribute
 - If you find more upto date information, please submit a pull request so that we can incorporate it in the repo. Thank you.
